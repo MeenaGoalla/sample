@@ -1,0 +1,10 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is 16E8-E3D7
+
+ Directory of C:\Users\oletimeena\Desktop\myproject
+
+03/15/2017  12:17 PM    <DIR>          .
+03/15/2017  12:17 PM    <DIR>          ..
+03/15/2017  12:17 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  565,673,197,568 bytes free
